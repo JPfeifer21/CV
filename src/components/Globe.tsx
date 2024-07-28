@@ -16,7 +16,7 @@ const GlobeComponent = () => {
     "Hungary",
     "Portugal",
     "Spain",
-    "United Kingdom",
+    "England",
     "Poland",
     "Island",
     "Sweden",
