@@ -3702,7 +3702,17 @@
               [127.287456, 50.739797],
               [127.657407, 49.76027]
             ]
-          ],
+          ]
+        ]
+      },
+      "id": "CHN"
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Taiwan" },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
           [
             [
               [121.777818, 24.394274],
@@ -3718,7 +3728,7 @@
           ]
         ]
       },
-      "id": "CHN"
+      "id": "TW"
     },
     {
       "type": "Feature",
